@@ -23,7 +23,7 @@ Building self-improving AI that reasons and acts autonomously:
 - On-device SLMs for privacy preserving intelligence
 
 ## AI Development Stack
-![Up<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" style="background:#0f1117;border-radius:12px;font-family:Inter, sans-serif">
+![Uploading tech-stack.svg…](<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" style="background:#0f1117;border-radius:12px;font-family:Inter, sans-serif">
   <!-- Gradient Definitions -->
   <defs>
     <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -151,4 +151,4 @@ Building self-improving AI that reasons and acts autonomously:
   
   <rect x="520" y="550" width="15" height="15" rx="3" fill="url(#outcomeGradient)"/>
   <text x="545" y="560" fill="#cbd5e1" font-size="13">Key Outcomes</text>
-</svg>loading tech-stack.svg…]()
+</svg>)
