@@ -14,6 +14,11 @@ When I'm not:
 
 ---
 
+# Research Philosophy
+> *"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."* - Madam Curie
+
+I wish to walk this era of AI with the intent of understanding, not fear it. And I'm doing my best to live up to these great words said my Madam Curie.
+
 ## Research & Engineering Focus
 
 ### Agentic AI Systems
@@ -33,11 +38,6 @@ Transformers • 3D Vision • LLM Optimization • Recommendation Systems • M
 
 ## Production ML:
 Airflow • FastAPI • TF Serving • Prometheus • Distributed Systems • MLOps
-
-# Research Philosophy
-> *"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."* - Madam Curie
-
-I wish to walk this era of AI with the intent of understanding, not fear it. And I'm doing my best to live up to these great words said my Madam Curie.
 
 ## My Core principles:
 Minimal viable precision 
