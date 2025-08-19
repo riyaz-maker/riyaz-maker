@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello World! I'm Riyaz - Living the life of Golden Trash
 
-<!--
-**riyaz-maker/riyaz-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I speak fluent CUDA, dream in tensors, and build AI agents that understand you better than your morning coffee knows your caffeine needs."* - written by AI.
 
-Here are some ideas to get you started:
+Machine Learning Engineer specializing in hardware AI • Startup Founder twice over • Performance Obsessive who makes GPUs work without leaves • On a mission to build AI systems that reason rather than just predict.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not:
+- Shaving milliseconds off inference pipelines
+- Teaching neural nets to understand human emotions
+- Writing CUDA kernels
+- Founding startups that solve real-world problems
+
+...you'll find me contemplating whether transformers dream of quantum sheep. Let's build the future together!
+
+---
+
+## 🚀 Research & Engineering Focus
+
+### Agentic AI Systems
+Building self-improving AI that reasons and acts autonomously:
+- Personalized agent frameworks(like my SentientNotes mood companion)
+- RAG architectures with hardware accelerated retrieval
+- On-device SLMs for privacy preserving intelligence
+
+## AI Development Stack
+![Uploading tech-stack.svg…]()
+
